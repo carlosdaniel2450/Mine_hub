@@ -1,0 +1,16 @@
+body{
+    border:0%;
+    margin: auto;
+    background-image: url(imag/1.webp);
+}
+.baner{
+ background-color: white;
+}
+.conteudo{
+    text-align: center;
+    color: rgb(246, 127, 145);
+
+}
+.par{
+    text-align: center;
+}
